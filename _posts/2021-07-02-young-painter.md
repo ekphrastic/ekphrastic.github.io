@@ -11,4 +11,4 @@ We are both tender.
 Papa's hands keep us in frame.   
 From my body to his.   
 
-~ michele
+~ mom
