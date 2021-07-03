@@ -1,0 +1,32 @@
+title: Ekphrastic
+description: > # this means to ignore newlines until "baseurl:"
+  Copules having fun together with thier artsiness
+permalink: ':title/'
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ekphrastic.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+site-twitter: #if your site has a twitter account, enter it here
+
+# Author Settings
+author: Jay & Michele
+author-img: authors.jpg
+about-author: versy shutterbug
+social-twitter: bicepjai
+social-github: bicepjai
+
+# Disqus
+discus-identifier: ekphrastic-github-io
+
+# Tracker
+analytics: # Google Analytics
+
+# Build Settings
+markdown: kramdown
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+
+paginate: 8
+paginate_path: "/page/:num"
+
+exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock"]

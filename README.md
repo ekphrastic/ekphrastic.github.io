@@ -1,1 +1,3 @@
-# ekphrastic.github.io
+# ekphrastic
+
+A couple having artsy fun
