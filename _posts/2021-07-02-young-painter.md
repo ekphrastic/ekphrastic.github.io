@@ -7,8 +7,8 @@ img: ekphrastic_0.jpg
 fig-caption: Illam Oviyan
 tags: [personal]
 ---
-We are both tender.   
+  We are both tender.   
 Papa's hands keep us in frame.   
-From my body to his.   
+  From my body to his.   
 
 ~ mom
