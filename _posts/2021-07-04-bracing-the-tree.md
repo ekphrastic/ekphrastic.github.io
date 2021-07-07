@@ -7,8 +7,8 @@ img: ekphrastic_2.jpg
 fig-caption: Bracing the tree
 tags: [Other]
 ---
-Saplings planted with   
+  Saplings planted with   
 a tether to stay erect.   
-Growth can be fragile.   
+  Growth can be fragile.   
 
 ~ michele
