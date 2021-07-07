@@ -7,6 +7,8 @@ img: ekphrastic_3.jpg
 fig-caption: USA...
 tags: [Other]
 ---
-...  
+  How long will the neighbors    
+leave holiday flags hanging?    
+  It is now August.    
 
 ~ michele
