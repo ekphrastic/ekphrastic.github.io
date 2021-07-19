@@ -7,7 +7,10 @@ img: ekphrastic_5.jpg
 fig-caption: Refrigerator life
 tags: [Other]
 ---
-Peril speaks a tale which jest.    
-Oft light strike where mercy comes.      
+Peril speaks    
+a tale which jest.    
+        
+Oft light strike     
+where mercy comes.      
 
 ~ michele
