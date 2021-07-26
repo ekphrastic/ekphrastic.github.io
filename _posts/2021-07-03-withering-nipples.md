@@ -5,7 +5,7 @@ date: 2021-07-03
 description: ekphrastic_1
 img: ekphrastic_1.jpg
 fig-caption: Postpartum Bouquet
-tags: [parenthood]
+tags: [parenthood,home]
 ---
 Our silicone friend,    
 like a hat for a flower,    
